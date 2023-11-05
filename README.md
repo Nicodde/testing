@@ -1,4 +1,4 @@
-# omd
+# testing
 
 https://github.com/Nicodde/testing.git
 
